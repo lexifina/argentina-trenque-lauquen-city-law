@@ -1,0 +1,27 @@
+Ordenanza Nº5373/2023
+Ordenanza Nº 5373/2023
+Trenque Lauquen, 13/03/2023
+VISTO: La Ley Orgánica de las Municipalidades aprobada por el Decreto Ley N° 6769 del 29 de abril de 1958 y sus modificatorias; la Ordenanza 3587 sancionada el 1 de noviembre de 2010 del Honorable Concejo Deliberante de Trenque Lauquen, y la solicitud realizada por el Club Deportivo Barrio Alegre ante la necesidad de designar la calle sin nombre (Exp. N° 5317/06 HCD.); y
+CONSIDERANDO: Que, en virtud de lo establecido en el inciso 4) del artículo 27 de la Ley Orgánica de las Municipalidades, aprobada por el Decreto Ley Nº 6769/58 y sus modificatorias corresponde a la función deliberativa municipal reglamentar la imposición de nombres a calles y a los sitios públicos;
+Que, a su vez, el inciso b) del artículo 5º de la Ordenanza Nº 3587/2010 de este Honorable Concejo Deliberante establece que toda propuesta para denominar calles, barrios y/o Espacios Públicos deberá ser presentada ante el Concejo Deliberante para su consideración como proyectos colectivos de vecinos de un barrio o espacio público, o frentistas de una calle –según corresponda- dirigidos a nominar el barrio, espacio o calle en cuestión. Tales proyectos podrán ser también suscriptos por representantes o integrantes de personas jurídicas o simples asociaciones;
+Que, asimismo, el inciso f) del artículo 6º de la Ordenanza mencionada en el considerando precedente establece que, para la asignación de un nombre se tomarán como válidos aquellos que respondan a los nombres de vecinos destacados por su compromiso con temas sociales, o por su trayectoria científica, profesional, artística o deportiva;
+Que, la nominación de una calle es una necesidad que evita múltiples problemas a los vecinos del sector, ya que contribuye a su ubicación;
+Que, nominar una calle significa inmortalizar y honrar el nombre de hombres y mujeres que trabajaron por el crecimiento de nuestra tierra;
+Que, el Señor Benigno Mas nació en la localidad de Trenque Lauquen el 2 de diciembre de 1915, y a los 18 años ingresó a trabajar en el ferrocarril, donde se desempeñó hasta su jubilación;
+Que, en la peluquería de su hermano Ramón ubicada en la calle 12 de Abril, entre Colón y Saavedra, junto a otros jóvenes y no tan jóvenes, se reunían a escuchar tango y a charlar, y fue ahí donde surgió la idea de crear un Club de Fútbol;
+Que, el 14 de febrero de 1942 se llevó a cabo la primera reunión oficial del Club Barrio Alegre, y con el andar de la historia, ésta adquirió la dimensión de Magna Asamblea, eligiendo en esa oportunidad la primer Comisión Provisoria compuesta por tres miembros, siendo designado el Señor Benigno Mas como Presidente Fundador de la institución celeste;
+Que, ese mismo año contrae matrimonio con María Teresa Zambella, y fruto de esa relación nacen dos hijos: Raúl, que jugó al Futbol en el club durante muchos años, y Mabel;
+Que, junto a la comisión del Club, participó en la compra de la chacra donde se instaló la sede del Club y posteriormente de su forestación, de la donación de terrenos a la municipalidad, planeamiento y venta de lotes del Barrio Parque, de la construcción de la pileta, vestuarios, quincho y estadio;
+Que, en el año 1998, siendo presidente el Señor Víctor Zanollo, se le otorga su nombre a uno de los vestuarios del estadio de fútbol, haciéndole un reconocimiento a su gran labor en el Club;
+Que, entregó gran parte de su vida al club. Se lo podía ver en los festivales acomodando sillas, asistiendo a la gente, atendiendo la cantina. Era el primero en llegar y el último en retirarse. Fue un colaborador incansable, gestor de ideas, con valores para admirar y aprender;
+Que, muchos simpatizantes del club lo recuerdan relatando anécdotas que lo involucran, destacándose los consejos que daba con la gran humildad que lo caracterizaba. Se lo recuerda como un ejemplo de servicio, dedicación, austeridad, solidaridad y honradez. Siempre estaba a disposición cuando se trataba de colaborar;
+Que, años más tarde el Señor Benigno Mas volvería a ser Presidente de la Comisión Directiva, en el período que va desde 1969 a 1971;
+Que, entre los amigos que cosechó durante su vida se encuentran los hermanos Roberto y Omar Pedretti, también dos apasionados como él, del Club Barrio Alegre; y hasta que su salud mental se lo permitió, trabajo y proyectó mejoras para el club de sus amores;
+Que, su participación en la vida social no se limitó únicamente al Club Barrio Alegre. Le interesaba mucho el bienestar de los vecinos que vivían “detrás de la vía”. Por ese motivo, junto con otros hacedores y visionarios como él, que también eran miembros activos del Club Celeste, colaboró en tratativas para la creación del Jardín de Infantes Nº 905, Institución de la que fue Padrino en el momento de su inauguración; participó también en la creación del Centro Polivalente de Arte; e intervino activamente en la obra del paso a nivel de las calles Wilde y Villegas;
+Que, asimismo, asistió a reuniones de la Cooperativa Eléctrica de Trenque Lauquen como delegado del barrio donde vivía, con el solo objetivo de lograr el bienestar de sus vecinos;
+Que, el 4 de agosto de 2003 fallece a los 87 años de edad;
+Que, las cuestiones expuestas motivan la necesidad de sancionar la presente Ordenanza.
+POR ELLO:
+EL HONORABLE CONCEJO DELIBERANTE DEL PARTIDO DE TRENQUE LAUQUEN ACUERDA Y SANCIONA CON FUERZA DE LEY LA PRESENTE:
+O R D E N A N Z A
+ORDENANZA
