@@ -1,0 +1,12 @@
+Ordenanza Nº5521/2024
+Ordenanza Nº 5521/2024
+Trenque Lauquen, 01/07/2024
+VISTO: La Ordenanza 5508/24 que crea el Banco Municipal de Alimentos (Exp. N° 5782/09 HCD.); y
+CONSIDERANDO: Que la Ley N° 27.454 creó el Plan Nacional de Reducción de Pérdidas y Desperdicio de Alimentos, teniendo como objeto la reducción y eliminación de Pérdidas y Desperdicio de Alimentos (PDA), a través del empoderamiento y movilización de los productores, procesadores, distribuidores, consumidores y asociaciones, otorgando especial relevancia a la atención de las necesidades básicas alimentarias de la población en condiciones de vulnerabilidad y con riesgo de subsistencia;
+Que el Art. 3° de la citada norma crea el Registro de Instituciones de Bien Público Receptoras de Alimentos, en el ámbito del Ministerio de Desarrollo Social de la Nación, o el que en el futuro lo reemplace. Y que en el mismo deberán inscribirse las instituciones públicas o privadas, legalmente constituidas y que cumplan con controles sanitarios previstos en el Código Alimentario Argentino. Éstas serán responsables de la recepción de los productos alimenticios y de la entrega gratuita a los consumidores finales;
+Que la Ley 15.202 de la Provincia de Buenos Aires, determina en su Art.4°: Invitase a los Municipios a participar e implementar las políticas públicas para el fomento, desarrollo y promoción de la reducción de pérdidas y desperdicio de alimentos, a través de las acciones locales tendientes a ese fin;
+Que varios Municipios de todo el país han adherido a la citada Ley Nacional, destacándose la Municipalidad de Avellaneda, Provincia de Santa Fe, Municipalidad de Florentino Ameghino, Provincia de Buenos Aires, Municipalidad de Godoy Cruz, Provincia de Mendoza, Municipalidad de Justiniano Posse, Provincia de Córdoba, Municipalidad de La Cumbre, Provincia de Córdoba, Municipalidad de Laboulaye, Provincia de Córdoba, Municipalidad de Lincoln, Provincia de Buenos Aires, Municipalidad de Luján, Provincia de Buenos Aires, Municipalidad del Partido de Mar Chiquita, Provincia de Buenos Aires, Municipalidad de Pilar, Provincia de Buenos Aires, Municipalidad de San Isidro, Provincia de Buenos Aires, Municipalidad de San Justo, Provincia de Santa Fe, Municipalidad de Yerba Buena, Provincia de Tucumán.
+POR ELLO:
+EL HONORABLE CONCEJO DELIBERANTE DEL PARTIDO DE TRENQUE LAUQUEN ACUERDA Y SANCIONA CON FUERZA DE LEY LA PRESENTE:
+O R D E N A N Z A
+ORDENANZA
