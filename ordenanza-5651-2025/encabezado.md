@@ -1,0 +1,16 @@
+Ordenanza Nº5651/2025
+Ordenanza Nº 5651/2025
+Trenque Lauquen, 30/06/2025
+EXPOSICIÓN DE MOTIVOS:
+La Municipalidad del Partido de Trenque Lauquen viene impulsando una política sostenida de planificación urbana que garantice el desarrollo armónico del ejido urbano, priorizando la consolidación de infraestructuras esenciales, la accesibilidad a servicios públicos y la conformación de espacios verdes y equipamiento comunitario.
+En ese marco, mediante Ordenanza N° 5421/2023, se aprobó el trazado y subdivisión de las Quintas N° 70, 76, 82 y 85, ubicadas en el sector noreste de la ciudad, todas ellas comprendidas dentro de la Zona Residencial 3 (R3). El proyecto urbanístico aprobado retoma trazados previamente trabajados por el Comité de Planeamiento, integrando la continuidad de calles como Tavoloni y articulando con loteos ya consolidados (como Quinta 87), favoreciendo así una urbanización ordenada y coherente.
+Dentro del esquema de diseño aprobado, el canal a cielo abierto ubicado sobre calle Guardias Nacionales de Junín cumple un papel central en la infraestructura del sector. Esta vía constituye, además de un conducto pluvial esencial, una rambla estructurante que organiza la traza vial y define el límite entre el área urbana y el sector extraurbano (zona REX). Su existencia es condición necesaria para el correcto escurrimiento de aguas en la zona y la viabilidad de todo el diseño urbano circundante.
+A los fines de completar la traza de dicho canal en el tramo aún no ejecutado —ubicado parcialmente en fracción de propiedad privada—, resulta indispensable su intervención física mediante tareas de limpieza, reconformado y ensanchamiento. Esta obra es clave para consolidar el nuevo frente urbano proyectado sobre Guardias Nacionales de Junín, garantizando la funcionalidad hidráulica y la habilitación futura de espacios verdes, veredas, equipamiento y calles.
+En función de esta necesidad, la firma “LATIRRE EMPRENDIMIENTOS S.A.”, CUIT 30-71791678-2, titular de una de las fracciones alcanzadas por la traza del canal, ha manifestado su voluntad de ejecutar la obra a su exclusivo costo, asumiendo integralmente la limpieza y ensanchamiento del canal, conforme a las especificaciones técnicas definidas por la Municipalidad.
+Como parte del acuerdo, y dada la magnitud del volumen de tierra extraída, se conviene su utilización en el marco de las tareas a desarrollar para el consolidado de los macizos previstos en la Ordenanza N° 5421/2023.
+En tal contexto la Municipalidad ha procedido a desarrollar un informe técnico y económico considerando que esta colaboración público-privada se enmarca en el interés general, no implica erogación presupuestaria de la comuna, es económicamente favorable a los intereses públicos y contribuye a consolidar la infraestructura urbana proyectada, motivo por el cual resulta pertinente formalizarla mediante el pertinente convenio.
+En virtud de lo expuesto, se eleva para tratamiento del Honorable Concejo Deliberante el presente proyecto de ordenanza que convalida el acuerdo celebrado entre las partes, permitiendo dar inicio a una obra estratégica para el desarrollo del área noreste de la ciudad (Exp. N° 1471/94 HCD.).
+ORDENANZA
+POR ELLO:
+EL HONORABLE CONCEJO DELIBERANTE DEL PARTIDO DE TRENQUE LAUQUEN ACUERDA Y SANCIONA CON FUERZA DE LEY LA PRESENTE:
+O R D E N A N Z A
