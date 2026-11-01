@@ -221,20 +221,30 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-5731-2026` | Ordenanza 5731/2026: Convalídase la adjudicación en venta efectuada por el Departamento Ejecutivo Municipal a través de Decreto Nº 753/2026 a favor del Sr. GIRARD, EDGARDO OMAR, DNI Nº 11.370.562, en relación al inmueble ubicado en calle Jau | 1 | 2026-07-10 to 2026-07-10 |
 | `ordenanza-5733-2026` | Ordenanza 5733/2026: Convalídase la adjudicación en venta efectuada por el Departamento Ejecutivo Municipal a través de Decreto Nº 702/2026 a favor del SR. ZEMMA, MARCOS ARIEL, DNI Nº 34.876.757, en relación al inmueble ubicado en calle Wyso | 1 | 2026-07-10 to 2026-07-10 |
 | `ordenanza-5735-2026` | Ordenanza 5735/2026: Acéptase la donación efectuada por el señor Sebastián Laviana, consistente en dos (2) pelotas destinadas al taller deportivo del Área de Discapacidad. | 1 | 2026-07-10 to 2026-07-10 |
+| `ordenanza-4794-2018` | Ordenanza 4794/2018: Déjase sin efecto la adjudicación efectuada por Ordenanza Nº 1398/97 en favor de la Sra. RINCÓN, NANCY GLADYS, DNI. Nº 13.440.718, de un inmueble ubicado en calle Rivadavia Nº 1061 de Trenque Lauquen, identificado catast | 1 | 2018-08-26 to 2018-08-26 |
+| `ordenanza-4803-2018` | Ordenanza 4803/2018: Acéptase la Cesión de Derechos y Acciones Posesorios efectuada por el Club Deportivo Argentino a favor de la Municipalidad de Trenque Lauquen, en relación al inmueble ubicado en la localidad de 30 de Agosto, identificado | 1 | 2018-09-01 to 2018-09-01 |
+| `ordenanza-4804-2018` | Ordenanza 4804/2018: Adjudícase a “LUIS DE SANTIAGO S.A.” los inmuebles sitos en la ex Estación Girodías, designados catastralmente, según Planos 107-03-2014 y 19-03-2014, como: a) Circunscripción XIV, Sección A, Fracción I, Parcela 2a, Part | 1 | 2018-09-01 to 2018-09-01 |
+| `ordenanza-4805-2018` | Ordenanza 4805/2018: Nomínase “Plaza Julio Cortázar” al nuevo espacio verde público delimitado por la calle División Norte, la prolongación de la calle Rivadavia y las vías del ferrocarril, de la ciudad de Trenque Lauquen. | 1 | 2018-09-01 to 2018-09-01 |
+| `ordenanza-4807-2018` | Ordenanza 4807/2018: Autorízase al Departamento Ejecutivo Municipal a suscribir con el Sr. Ballester Miguel Titular de la empresa OLEUM DEL OESTE S.A. Convenio de renovación de la concesión de uso del predio del sector industrial otorgado po | 1 | 2018-09-01 to 2018-09-01 |
+| `ordenanza-4810-2018` | Ordenanza 4810/2018: Acéptase la donación efectuada por la Sra. Susana BARALES, consistente en un TV SMART NOBLEX 43”; con destino al Hogar para Adultos Mayores “Marcelo Castella”. | 1 | 2018-09-01 to 2018-09-01 |
+| `ordenanza-4811-2018` | Ordenanza 4811/2018: Acéptase la donación efectuada por la PEÑA XENEIZE TRENQUE LAUQUEN, representada por el Sr. Hugo COVINO, en su carácter de Presidente, consistente en un Proyector – Marca BENQ – Modelo MS527 y una Notebook – Marca HP 240 | 1 | 2018-09-01 to 2018-09-01 |
+| `ordenanza-4814-2018` | Ordenanza 4814/2018: Apruébase la Ordenanza General Impositiva, que como Anexo I, se agrega a la presente. | 1 | 2018-09-01 to 2018-09-01 |
+| `ordenanza-4817-2018` | Ordenanza 4817/2018: Autorízase el fraccionamiento del inmueble: | 1 | 2018-09-01 to 2018-09-01 |
+| `ordenanza-4821-2018` | Ordenanza 4821/2018: Créase la Biblioteca Pública en la localidad de Girodías. | 1 | 2018-09-01 to 2018-09-01 |
 
-The build made 207 commits:
+The build made 217 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 207 | first version of an act |
+| 217 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-01.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 207 laws in the record.
-- 414 tags.
+- 217 laws in the record.
+- 434 tags.
 
 ## Dates
 
@@ -246,13 +256,13 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ea9ec74fef311d06ae794535131f83aab731e1ae078a14f9490569fe473d23ad` (1294174 bytes).
+- Corpus: sha256 `83fb4628cf373d93c9431e3dd73c5906109e92beb36b884f4b991cfae6697a4b` (1327503 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-207 versions of 207 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

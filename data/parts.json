@@ -231,6 +231,21 @@
     "ordenanza-5735-2026"
    ],
    "sha256": "d04584013a9a55125ef27794b34cbafb4c372f1f92309be24efe61e3d186e376"
+  },
+  "35-ordenanzas-depth-01.json": {
+   "acts": [
+    "ordenanza-4794-2018",
+    "ordenanza-4803-2018",
+    "ordenanza-4804-2018",
+    "ordenanza-4805-2018",
+    "ordenanza-4807-2018",
+    "ordenanza-4810-2018",
+    "ordenanza-4811-2018",
+    "ordenanza-4814-2018",
+    "ordenanza-4817-2018",
+    "ordenanza-4821-2018"
+   ],
+   "sha256": "0ff13326096258e75314b1c892b6d7385c17efa01179b0c978657f516ca53854"
   }
  },
  "schema": 1

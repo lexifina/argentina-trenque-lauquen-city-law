@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-207 ordinances so far, in force from 26 August 2018 to 10 July 2026, each as published in the Boletín Oficial Municipal de Trenque Lauquen, added in parts.
+217 ordinances so far, in force from 26 August 2018 to 10 July 2026, each as published in the Boletín Oficial Municipal de Trenque Lauquen, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -219,6 +219,16 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-5731-2026/` | Ordenanza 5731/2026: Convalídase la adjudicación en venta efectuada por el Departamento Ejecutivo Municipal a través de Decreto Nº 753/2026 a favor del Sr. GIRA… | in force 10 July 2026 |
 | `ordenanza-5733-2026/` | Ordenanza 5733/2026: Convalídase la adjudicación en venta efectuada por el Departamento Ejecutivo Municipal a través de Decreto Nº 702/2026 a favor del SR. ZEMM… | in force 10 July 2026 |
 | `ordenanza-5735-2026/` | Ordenanza 5735/2026: Acéptase la donación efectuada por el señor Sebastián Laviana, consistente en dos (2) pelotas destinadas al taller deportivo del Área de Di… | in force 10 July 2026 |
+| `ordenanza-4794-2018/` | Ordenanza 4794/2018: Déjase sin efecto la adjudicación efectuada por Ordenanza Nº 1398/97 en favor de la Sra. RINCÓN, NANCY GLADYS, DNI. Nº 13.440.718, de un in… | in force 26 August 2018 |
+| `ordenanza-4803-2018/` | Ordenanza 4803/2018: Acéptase la Cesión de Derechos y Acciones Posesorios efectuada por el Club Deportivo Argentino a favor de la Municipalidad de Trenque Lauqu… | in force 1 September 2018 |
+| `ordenanza-4804-2018/` | Ordenanza 4804/2018: Adjudícase a “LUIS DE SANTIAGO S.A.” los inmuebles sitos en la ex Estación Girodías, designados catastralmente, según Planos 107-03-2014 y … | in force 1 September 2018 |
+| `ordenanza-4805-2018/` | Ordenanza 4805/2018: Nomínase “Plaza Julio Cortázar” al nuevo espacio verde público delimitado por la calle División Norte, la prolongación de la calle Rivadavi… | in force 1 September 2018 |
+| `ordenanza-4807-2018/` | Ordenanza 4807/2018: Autorízase al Departamento Ejecutivo Municipal a suscribir con el Sr. Ballester Miguel Titular de la empresa OLEUM DEL OESTE S.A. Convenio … | in force 1 September 2018 |
+| `ordenanza-4810-2018/` | Ordenanza 4810/2018: Acéptase la donación efectuada por la Sra. Susana BARALES, consistente en un TV SMART NOBLEX 43”; con destino al Hogar para Adultos Mayores… | in force 1 September 2018 |
+| `ordenanza-4811-2018/` | Ordenanza 4811/2018: Acéptase la donación efectuada por la PEÑA XENEIZE TRENQUE LAUQUEN, representada por el Sr. Hugo COVINO, en su carácter de Presidente, cons… | in force 1 September 2018 |
+| `ordenanza-4814-2018/` | Ordenanza 4814/2018: Apruébase la Ordenanza General Impositiva, que como Anexo I, se agrega a la presente. | in force 1 September 2018 |
+| `ordenanza-4817-2018/` | Ordenanza 4817/2018: Autorízase el fraccionamiento del inmueble: | in force 1 September 2018 |
+| `ordenanza-4821-2018/` | Ordenanza 4821/2018: Créase la Biblioteca Pública en la localidad de Girodías. | in force 1 September 2018 |
 
 ## Source
 
