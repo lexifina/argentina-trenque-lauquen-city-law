@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-trenque-lauquen",
+  "code": "AR-B-TRENQUE-LAUQUEN",
+  "name": "Trenque Lauquen",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-trenque-lauquen-city-law",
+  "build": "built: municipal ordinances (207 ordinances, 207 versions) from https://sibom.slyt.gba.gob.ar/cities/126",
+  "language": "es",
+  "sources": 1
+}
